@@ -1,0 +1,15 @@
+{
+  "name": "risc-v-mentorship-coding-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Ahmed Eid",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
